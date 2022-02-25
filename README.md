@@ -10,9 +10,9 @@
   
 📫 How to reach me:  
 > - Email: maspiguel@gmail.com  
-> - Instagram: [Instagram](https://www.instagram.com/martin.spiguel/)
-> - Twitter: [Twitter](https://twitter.com/MartinSpiguel)
-> - Linkedin: [Linkedin](https://www.linkedin.com/in/mart%C3%ADn-spiguel-505865232/) 
+> - Instagram: [@martin.spiguel](https://www.instagram.com/martin.spiguel/)
+> - Twitter: [@MartinSpiguel](https://twitter.com/MartinSpiguel)
+> - Linkedin: [martin-spiguel](https://www.linkedin.com/in/mart%C3%ADn-spiguel-505865232/) 
 - 
 
 <!---
