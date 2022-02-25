@@ -9,7 +9,7 @@
 💞️ I’m looking to collaborate on anything I can. I'm interested in a lot of things. 
   
 📫 How to reach me:  
-> - [Email](maspiguel@gmail.com)
+> - Email: maspiguel@gmail.com
 > - [Instagram](https://www.instagram.com/martin.spiguel/)
 > - [Twitter](https://twitter.com/MartinSpiguel)
 > - [Linkedin](https://www.linkedin.com/in/mart%C3%ADn-spiguel-505865232/) 
