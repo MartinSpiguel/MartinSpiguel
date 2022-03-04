@@ -4,7 +4,7 @@
   
 👀 I’m interested in programming, more specifically in python and postgresql but also databases in general, javascript or anything related with programming.   
   
-🌱 I’m currently learning different python modules like pygame, django, tkinter, psycopg2. I'm also learning databases specifically postgresql and a little bit of javascript. 
+🌱 I’m currently learning different python modules like pygame, flask, tkinter, psycopg2. I'm also learning databases specifically postgresql and a little bit of javascript. 
   
 💞️ I’m looking to collaborate on anything I can. I'm interested in a lot of things. 
   
