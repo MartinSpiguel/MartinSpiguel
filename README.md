@@ -1,12 +1,12 @@
 ## Hello World
 
-👋 Hi, I’m @MartinSpiguel and I'm 18 years old. I love math and technology is my passion.   
+👋 Hi, I’m @MartinSpiguel and I'm 22 years old. I love math and technology is my passion.   
   
 👀 I’m interested in programming, more specifically in python but really anything related to programming.   
   
-🌱 I’m currently learning about data analysis and data science.
+🌱 I’m currently learning about Claude and agent programming.
   
-💞️ I’m looking to collaborate on anything I can. I'm interested in a lot of things. I'd love to get a job as a junior python programer/data analyst.
+💞️ I’m looking to collaborate on anything I can. I'm interested in a lot of things.
   
 📫 How to reach me:  
 > - Email: maspiguel@gmail.com  
